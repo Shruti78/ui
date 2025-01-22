@@ -85,6 +85,13 @@ The frontend development server will start, typically on port 5173.
 	<tbody>
 		<tr>
             <td align="center">
+                <a href="https://github.com/Shruti78">
+                    <img src="https://avatars.githubusercontent.com/u/104200088?v=4" width="100;" alt="Shruti78"/>
+                    <br />
+                    <sub><b>Shruti Murthy</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/clubanderson">
                     <img src="https://avatars.githubusercontent.com/u/407614?v=4" width="100;" alt="clubanderson"/>
                     <br />
@@ -119,6 +126,8 @@ The frontend development server will start, typically on port 5173.
                     <sub><b>RealRTorres</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/yashpandey06">
                     <img src="https://avatars.githubusercontent.com/u/97700473?v=4" width="100;" alt="yashpandey06"/>
@@ -126,8 +135,6 @@ The frontend development server will start, typically on port 5173.
                     <sub><b>Yash Pandey</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Jayesh0167">
                     <img src="https://avatars.githubusercontent.com/u/191938611?v=4" width="100;" alt="Jayesh0167"/>
